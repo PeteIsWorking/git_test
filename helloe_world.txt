@@ -1,0 +1,16 @@
+<style>
+.center {
+  margin: auto;
+  width: 80%;
+  border: 3px solid green;
+  padding: 10px;
+  text-align: center;
+}
+</style>
+
+
+<div class="center">
+  
+  I should be in the middle, no?
+  
+  </div>
